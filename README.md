@@ -1,2 +1,3 @@
 # hello-world
-where amazing happens
+
+I am learning how to use GitHub and hope it won't be too hard.
